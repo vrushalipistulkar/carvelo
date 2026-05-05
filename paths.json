@@ -1,0 +1,22 @@
+{
+  "mappings": [
+    "/content/frescopa/language-masters/en:/",
+    "/content/frescopa/language-masters/en/:/en/",
+    "/content/frescopa/language-masters/fr/:/fr/",
+    "/content/frescopa/language-masters/fr:/fr",
+    "/content/frescopa/language-masters/es/:/es/",
+    "/content/frescopa/language-masters/es:/es",
+    "/content/frescopa/language-masters/ja/:/ja/",
+    "/content/frescopa/language-masters/ja:/ja",
+    "/content/frescopa/language-masters/de/:/de/",
+    "/content/frescopa/language-masters/de:/de",
+    "/content/frescopa/configuration:/.helix/config.json",
+    "/content/frescopa/metadata:/metadata.json",
+    "/content/frescopa/redirects:/redirects.json",
+    "/content/frescopa/placeholders:/placeholders.json"
+  ],
+  "includes": [
+    "/content/frescopa/",
+    "/content/dam/frescopa/"
+  ]
+}
