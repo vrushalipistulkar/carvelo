@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/frescopa/language-masters/en:/",
-    "/content/frescopa/language-masters/en/:/en/",
-    "/content/frescopa/language-masters/fr/:/fr/",
-    "/content/frescopa/language-masters/fr:/fr",
-    "/content/frescopa/language-masters/es/:/es/",
-    "/content/frescopa/language-masters/es:/es",
-    "/content/frescopa/language-masters/ja/:/ja/",
-    "/content/frescopa/language-masters/ja:/ja",
-    "/content/frescopa/language-masters/de/:/de/",
-    "/content/frescopa/language-masters/de:/de",
-    "/content/frescopa/configuration:/.helix/config.json",
-    "/content/frescopa/metadata:/metadata.json",
-    "/content/frescopa/redirects:/redirects.json",
-    "/content/frescopa/placeholders:/placeholders.json"
+    "/content/carvelo/language-masters/en:/",
+    "/content/carvelo/language-masters/en/:/en/",
+    "/content/carvelo/language-masters/fr/:/fr/",
+    "/content/carvelo/language-masters/fr:/fr",
+    "/content/carvelo/language-masters/es/:/es/",
+    "/content/carvelo/language-masters/es:/es",
+    "/content/carvelo/language-masters/ja/:/ja/",
+    "/content/carvelo/language-masters/ja:/ja",
+    "/content/carvelo/language-masters/de/:/de/",
+    "/content/carvelo/language-masters/de:/de",
+    "/content/carvelo/configuration:/.helix/config.json",
+    "/content/carvelo/metadata:/metadata.json",
+    "/content/carvelo/redirects:/redirects.json",
+    "/content/carvelo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/frescopa/",
-    "/content/dam/frescopa/"
+    "/content/carvelo/",
+    "/content/dam/carvelo/"
   ]
 }
